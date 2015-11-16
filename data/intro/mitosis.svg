@@ -16,7 +16,10 @@
    width="837.52826"
    id="svg2"
    inkscape:version="0.91 r"
-   sodipodi:docname="mitosis.svg">
+   sodipodi:docname="mitosis.svg"
+   inkscape:export-filename="/home/hadim/Documents/phd/productions/2015.12.16.phd_thesis_talk/phd_thesis_talk/data/intro/mitosis.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <metadata
      id="metadata1425">
     <rdf:RDF>
@@ -47,9 +50,9 @@
      fit-margin-left="10"
      fit-margin-right="10"
      fit-margin-bottom="10"
-     inkscape:zoom="0.56416884"
-     inkscape:cx="289.31085"
-     inkscape:cy="363.72679"
+     inkscape:zoom="0.39892761"
+     inkscape:cx="59.187934"
+     inkscape:cy="127.69788"
      inkscape:window-x="0"
      inkscape:window-y="60"
      inkscape:window-maximized="0"
@@ -370,10 +373,10 @@
        x="23.234934"
        y="265.88394">Anaphase</tspan></text>
   <rect
-     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;opacity:0.62999998;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:4.79999971;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+     style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;opacity:0.62999998;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:3.19999957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
      id="rect4183"
-     width="419.12369"
-     height="335.90057"
+     width="648.14355"
+     height="320.5162"
      x="10.400023"
      y="232.68228"
      class="fragment"
