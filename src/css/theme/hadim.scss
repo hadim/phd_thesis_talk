@@ -40,7 +40,7 @@ section.has-light-background {
 @import "./template/theme";
 
 .reveal .slides{
-  // border: 0.1em solid rgba(255, 255, 255, 0.2);
+  border: 0.1em solid rgba(255, 255, 255, 0.2);
 }
 
 // Overview mode
@@ -140,7 +140,13 @@ section.has-light-background {
 }
 
 .reveal .slide-number {
-  font-size: 0.7em;
+  font-size: 0.8 em;
+  background-color: rgba(0, 0, 0, 0);
+  color: rgba(255, 255, 255, 0.2);
+}
+
+.reveal .progress span{
+  background: rgba(255, 255, 255, 0.8);
 }
 
 .reveal .legend{

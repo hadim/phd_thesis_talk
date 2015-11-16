@@ -41,7 +41,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
   //  v: current slide's vertical index
   //  c: current slide index (flattened)
   //  t: total number of slides (flattened)
-  slideNumber: 'c / t',
+  slideNumber: 'c',
 
   // Push each slide change to the browser history
   history: true,
@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     //{ src: `${prefix}/highlight/highlight.js`, async: true, condition: () => !!document.querySelector('pre code'), callback: () => hljs.initHighlightingOnLoad(//) },
     //{ src: `${prefix}/zoom-js/zoom.js`, async: true },
     //{ src: `${prefix}/notes/notes.js`, async: true },
-    //{ src: `${prefix}/math/math.js`, async: true },
+    { src: `${prefix}/math/math.js`, async: true },
     ],
   });
 
