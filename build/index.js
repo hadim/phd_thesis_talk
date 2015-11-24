@@ -9531,6 +9531,10 @@ var _jsVideoFragment = require('./js/video-fragment');
 
 var _jsVideoFragment2 = _interopRequireDefault(_jsVideoFragment);
 
+var _jsDragscroll = require('./js/dragscroll');
+
+var _jsDragscroll2 = _interopRequireDefault(_jsDragscroll);
+
 var prefix = 'node_modules/reveal.js/plugin';
 
 document.addEventListener('DOMContentLoaded', function (event) {
@@ -9655,7 +9659,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
   // insert code here
 });
 
-},{"./js/data-src-svg":196,"./js/print-css":197,"./js/video-fragment":198,"babel-core/polyfill":2,"reveal.js/js/reveal":192,"reveal.js/lib/js/head.min":193,"whatwg-fetch":194}],196:[function(require,module,exports){
+},{"./js/data-src-svg":196,"./js/dragscroll":197,"./js/print-css":198,"./js/video-fragment":199,"babel-core/polyfill":2,"reveal.js/js/reveal":192,"reveal.js/lib/js/head.min":193,"whatwg-fetch":194}],196:[function(require,module,exports){
 'use strict';
 
 Object.defineProperty(exports, '__esModule', {
@@ -9744,6 +9748,80 @@ function loadDataSrcSVG() {
 module.exports = exports['default'];
 
 },{}],197:[function(require,module,exports){
+/**
+ * @fileoverview dragscroll - scroll area by dragging
+ * @version 0.0.5
+ * 
+ * @license MIT, see http://github.com/asvd/intence
+ * @copyright 2015 asvd <heliosframework@gmail.com> 
+ */
+
+'use strict';
+
+(function (root, factory) {
+    if (typeof define === 'function' && define.amd) {
+        define(['exports'], factory);
+    } else if (typeof exports !== 'undefined') {
+        factory(exports);
+    } else {
+        factory(root.dragscroll = {});
+    }
+})(undefined, function (exports) {
+    var _window = window;
+    var _document = document;
+    var mousemove = 'mousemove';
+    var mouseup = 'mouseup';
+    var mousedown = 'mousedown';
+    var EventListener = 'EventListener';
+    var addEventListener = 'add' + EventListener;
+    var removeEventListener = 'remove' + EventListener;
+
+    var dragged = [];
+    var reset = function reset(i, el) {
+        for (i = 0; i < dragged.length;) {
+            el = dragged[i++];
+            el[removeEventListener](mousedown, el.md, 0);
+            _window[removeEventListener](mouseup, el.mu, 0);
+            _window[removeEventListener](mousemove, el.mm, 0);
+        }
+
+        dragged = _document.getElementsByClassName('dragscroll');
+        for (i = 0; i < dragged.length;) {
+            (function (el, lastClientX, lastClientY, pushed) {
+                el[addEventListener](mousedown, el.md = function (e) {
+                    pushed = 1;
+                    lastClientX = e.clientX;
+                    lastClientY = e.clientY;
+
+                    e.preventDefault();
+                    e.stopPropagation();
+                }, 0);
+
+                _window[addEventListener](mouseup, el.mu = function () {
+                    pushed = 0;
+                }, 0);
+
+                _window[addEventListener](mousemove, el.mm = function (e, scroller) {
+                    scroller = el.scroller || el;
+                    if (pushed) {
+                        scroller.scrollLeft -= -lastClientX + (lastClientX = e.clientX);
+                        scroller.scrollTop -= -lastClientY + (lastClientY = e.clientY);
+                    }
+                }, 0);
+            })(dragged[i++]);
+        }
+    };
+
+    if (_document.readyState == 'complete') {
+        reset();
+    } else {
+        _window[addEventListener]('load', reset, 0);
+    }
+
+    exports.reset = reset;
+});
+
+},{}],198:[function(require,module,exports){
 /** loads the PDF print stylesheet if ?print-pdf is appended to the URL */
 'use strict';
 
@@ -9764,7 +9842,7 @@ function loadPrintCSS() {
 
 module.exports = exports['default'];
 
-},{}],198:[function(require,module,exports){
+},{}],199:[function(require,module,exports){
 /*
  * Allow video to be inserted in fragment loop
 */

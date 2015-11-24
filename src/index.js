@@ -7,6 +7,7 @@ import Reveal from 'reveal.js/js/reveal';
 import loadDataSrcSVG      from './js/data-src-svg';
 import loadPrintCSS        from './js/print-css';
 import loadVideoFragment   from './js/video-fragment';
+import dragscroll   from './js/dragscroll';
 
 var prefix = 'node_modules/reveal.js/plugin';
 
