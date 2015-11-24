@@ -51,7 +51,7 @@ section.has-light-background {
 .reveal .cover h1{
   font-size: 2.4em;
   border: none;
-  margin-top: 2.4em;
+  margin-top: 3em;
   margin-bottom: 0.8em;
 }
 
@@ -65,6 +65,13 @@ section.has-light-background {
   padding-bottom: 0.2em;
   border-bottom: 0.04em solid;
   border-color: rgba(255, 255, 255, 0.8);
+}
+
+.reveal h1.part{
+  border-bottom: none;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
 }
 
 .reveal h1,
@@ -140,9 +147,9 @@ section.has-light-background {
 }
 
 .reveal .slide-number {
-  font-size: 0.8 em;
+  font-size: 0.9em;
   background-color: rgba(0, 0, 0, 0);
-  color: rgba(255, 255, 255, 0.2);
+  color: rgba(255, 255, 255, 0.4);
 }
 
 .reveal .progress span{
