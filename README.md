@@ -4,6 +4,12 @@ Strongly inspired from https://github.com/flying-sheep/revealjs-template.
 
 ## Usage
 
+Clone it :
+
+```sh
+git clone https://github.com/hadim/revealjs-template.git
+```
+
 Locally :
 
 ```sh
