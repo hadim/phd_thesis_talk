@@ -2,5 +2,6 @@ talk:
   build: .
   ports:
    - "8000:8000"
+   - "35729:35729"  # for livereload
   volumes:
    - .:/slides

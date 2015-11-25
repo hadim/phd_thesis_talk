@@ -24,4 +24,4 @@ docker-compose up --force-recreate
 Slides are available at http://localhost:8000.
 
 - Modifications in `index.html`, `data/` and `src/` will automatically trigger `build/` update.
-- When using `glup` locally slides on your browser should automatically reload (doesn't work when using Docker).
+- Upon modifications, slides on your browser should automatically reload.
