@@ -1,0 +1,6 @@
+*
+!build
+!index.html
+!data
+!package.json
+!Gulpfile.js

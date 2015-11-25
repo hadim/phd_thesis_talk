@@ -63,4 +63,3 @@ gulp.task('connect', function() {
 
 gulp.task('default', ['build', 'watch', 'connect']);
 gulp.task('build', ['js', 'sass', 'fonts', 'css']);
-
