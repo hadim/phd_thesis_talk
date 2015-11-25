@@ -34,3 +34,7 @@ Some ameliorations has been made over the original Reveal.js.
 - video with fragment class will be integrated in the fragments flow. See [src/js/video-fragment.js](src/js/video-fragment.js).
 
 - use `bash build-pdf.sh` to generated a pdf file of your slides using Docker and [Decktape](https://github.com/astefanutti/decktape) (still experimental).
+
+## Licence
+
+This project is distributed under the terms of the [MIT License](https://opensource.org/licenses/MIT).
