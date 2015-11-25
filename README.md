@@ -31,6 +31,9 @@ Slides are available at http://localhost:8000.
 - Modifications in `index.html`, `data/` and `src/` will automatically trigger `build/` update.
 - Upon modifications, slides on your browser should automatically reload.
 
+- Styles can be modified in [src/index.scss](src/index.scss).
+- Reveal.js options can be modified in [src/index.js](src/index.js).
+
 ## Improvements
 
 Some ameliorations has been made over the original Reveal.js.
