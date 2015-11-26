@@ -1644,6 +1644,12 @@ section.has-light-background, section.has-light-background h1, section.has-light
   border-bottom: 0.04em solid;
   border-color: rgba(255, 255, 255, 0.8); }
 
+.reveal h5 {
+  font-size: 1em; }
+
+.reveal h6 {
+  font-size: 0.8em; }
+
 .reveal h1.part {
   border-bottom: none;
   text-align: center;

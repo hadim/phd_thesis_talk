@@ -29,6 +29,8 @@ $heading1Size: 1.3em;
 $heading2Size: 1.2em;
 $heading3Size: 1.6em;
 $heading4Size: 1.2em;
+$heading5Size: 1em;
+$heading6Size: 0.8em;
 
 // Load base reveal.js theme
 @import "../node_modules/reveal.js/css/theme/template/theme.scss";
@@ -68,6 +70,14 @@ section.has-light-background {
   padding-bottom: 0.2em;
   border-bottom: 0.04em solid;
   border-color: rgba(255, 255, 255, 0.8);
+}
+
+.reveal h5{
+  font-size: $heading5Size;
+}
+
+.reveal h6{
+  font-size: $heading6Size;
 }
 
 .reveal h1.part{
