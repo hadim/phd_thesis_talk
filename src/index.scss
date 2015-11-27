@@ -103,7 +103,15 @@ section.has-light-background {
 }
 
 .reveal li{
-  margin-bottom: 0.2em;
+  margin-bottom: 0.8em;
+}
+
+.reveal li ul li:nth-of-type(1){
+  margin-top: 0.8em;
+}
+
+.reveal li ul li{
+  margin-bottom: 0.6em;
 }
 
 .reveal img{
