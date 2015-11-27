@@ -57,19 +57,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="391.85619"
-     inkscape:cy="245.04436"
+     inkscape:zoom="2.8284272"
+     inkscape:cx="158.84705"
+     inkscape:cy="58.211738"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1003"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-width="2036"
+     inkscape:window-height="1060"
+     inkscape:window-x="100"
+     inkscape:window-y="69"
+     inkscape:window-maximized="0"
      fit-margin-top="2"
      fit-margin-left="2"
      fit-margin-right="2"
@@ -407,18 +407,18 @@
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:arial;-inkscape-font-specification:arial;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
-       x="2708.0876"
-       y="-502.90314"
+       x="2620.76"
+       y="-506.43866"
        id="text5253"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan5255"
-         x="2708.0876"
-         y="-502.90314">Plaque externe</tspan><tspan
+         x="2620.76"
+         y="-506.43866">Plaque externe</tspan><tspan
          id="tspan5257"
          sodipodi:role="line"
-         x="2708.0876"
-         y="-487.90314">du kinétochore</tspan></text>
+         x="2620.76"
+         y="-491.43866">du kinétochore</tspan></text>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.0830195;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 3019.7485,-556.30715 -41.5725,-22.9743"
@@ -449,9 +449,10 @@
        inkscape:connector-curvature="0" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.0830195;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       d="m 2708.5013,-513.09355 19.1453,-89.70924"
+       d="m 2624.7091,-519.10396 102.9375,-83.69883"
        id="path5271"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
     <path
        style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1.0830195;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 2728.1936,-740.64866 24.0683,116.51256"
@@ -476,5 +477,16 @@
        id="path4215"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:arial;-inkscape-font-specification:arial;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       x="2779.0322"
+       y="-510.33923"
+       id="text4207"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4209"
+         x="2779.0322"
+         y="-510.33923">McEwen, 2007</tspan></text>
   </g>
 </svg>
