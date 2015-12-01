@@ -17,9 +17,9 @@
    inkscape:version="0.91 r"
    version="1.1"
    id="svg2"
-   viewBox="0 0 257.45203 165.90684"
-   height="46.822598mm"
-   width="72.658684mm">
+   viewBox="0 0 255.98042 82.829574"
+   height="23.376347mm"
+   width="72.243362mm">
   <sodipodi:namedview
      fit-margin-bottom="1"
      fit-margin-right="1"
@@ -35,9 +35,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="57.711729"
-     inkscape:cx="39.442068"
-     inkscape:zoom="1.0000001"
+     inkscape:cy="-45.773897"
+     inkscape:cx="138.3103"
+     inkscape:zoom="2.8284274"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -259,6 +259,17 @@
          id="feColorMatrix5931"
          values="0.9895 0 0 -0.230384 0.00525 0 0.9895 0 -0.230384 0.00525 0 0 0.9895 -0.230384 0.00525 0 0 0 1 0" />
     </filter>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4195">
+      <rect
+         style="color:#000000;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#ffd384;fill-opacity:1;fill-rule:nonzero;stroke:#007bff;stroke-width:5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         id="rect4197"
+         width="248.8938"
+         height="75.742958"
+         x="41.673752"
+         y="12.45318" />
+    </clipPath>
   </defs>
   <metadata
      id="metadata7">
@@ -273,7 +284,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-38.130445,-8.9098732)"
+     transform="translate(-37.776891,-9.6169799)"
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
@@ -302,6 +313,8 @@
        style="stroke-linecap:square;stroke-linejoin:round;image-rendering:optimizeQuality"
        preserveAspectRatio="none"
        height="158.82022"
-       width="250.3654" />
+       width="250.3654"
+       clip-path="url(#clipPath4195)"
+       transform="translate(-0.35355336,0.70710671)" />
   </g>
 </svg>
