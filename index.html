@@ -166,6 +166,14 @@
 
   </section>
 
+  <section>
+    <h1>Comment les deux kinétochores frêres se synchronisent ?</h1>
+
+    <svg width="65%" data-src="data/intro/run_switch.svg"></svg>
+    <p class="legend">Rieder, 1994</p>
+
+  </section>
+
 	<section>
 		<h1>La métaphase : point d'orgue de la division cellulaire</h1>
 
@@ -327,6 +335,12 @@
   </section>
 
   <section>
+    <h1>Un déséquilibre des forces de tractions pourrait expliquer l'augmentation de l'amplitude des oscillations</h1>
+
+    <svg class="fragment" width="65%" data-src="data/results/mad2.svg"></svg>
+  </section>
+
+  <section>
     <h1>Les oscillations ne sont pas requises pour le centrage des chromosomes</h1>
 
     <svg class="" width="65%" data-src="data/results/stat2.svg"></svg>
@@ -362,16 +376,56 @@
     <svg class="" width="65%" data-src="data/results/ldep-stat.svg"></svg>
   </section>
 
+</section>
+
+<!-- Conclusion -->
+<section>
+
+	<section class="center">
+		<h1 class="part">Conclusion</h1>
+	</section>
+
+	<section>
+		<h1>La dynamique des chromosomes durant la mitose</h1>
+
+    <br/><br/><br/>
+    <ul>
+      <li class="fragment">La kinésine-8 permet l'alignement des chromosomes chez la levure à fission.</li>
+      <li class="fragment">L'oscillation des chromosomes n'est pas requise pour permettre l'alignement.</li>
+      <li class="fragment">Deux mécanismes dépendant de la longueur des microtubules ou de la position au sein du fuseau mitotique sont capables de reproduire le centrage des chromosomes :
+        <ul>
+          <li class="fragment">Une force de traction dépendant de la taille du microtubule kinétochorien.</li>
+          <li class="fragment">Une probabilité d'attachement KT-MT dépendant de la position au sein du fuseau mitotique.</li>
+        </ul>
+      </li>
+    </ul>
+
+  </section>
+
+</section>
+
+<!-- Perspective -->
+<section>
+
+  <section class="center">
+    <h1 class="part">Perspective</h1>
+  </section>
+
+  <section>
+    <h1>Analyse de l'état de cohérence des kinétochores frêres</h1>
+    <svg class="" width="100%" data-src="data/results/coherence_run.svg"></svg>
+  </section>
+
+  <section>
+    <h1>Modèle d'attachement à trois états</h1>
+
+    <svg class="" width="100%" data-src="data/results/attachment_model.svg"></svg>
+  </section>
+
   <section>
     <h1>Analyse des trajectoires <em>in vivo</em> par la mesure du déplacement quadratique moyen (MSD)</h1>
 
     <svg class="" width="70%" data-src="data/results/motions.svg"></svg>
-  </section>
-
-  <section>
-    <h1>Analyse des trajectoires <em>in vivo</em> par MSD</h1>
-
-    <svg class="" width="60%" data-src="data/results/msds.svg"></svg>
   </section>
 
   <section>
@@ -384,51 +438,6 @@
     <h1>Analyse des trajectoires <em>in vivo</em> par MSD (log-log + fit)</h1>
 
     <svg class="" width="60%" data-src="data/results/msds_log_fit.svg"></svg>
-  </section>
-
-</section>
-
-<!-- Discussion -->
-<section>
-
-	<section class="center">
-		<h1 class="part">Discussion</h1>
-	</section>
-
-	<section>
-		<h1>La congression des chromosomes</h1>
-
-    <br/>
-    <ul>
-      <li>L'homologue de la kinésine-8 chez la levure à fission (Klp5 et Klp6) sont nécessaire à l'alignement des chromosomes durant la mitose.</li>
-      <li>Deux hypothèses proposent des mécanismes à des échelles différentes :
-      <ul>
-        <li>Le premier mécanisme agit sur la force générée au kinétochore par le microtubule.</li>
-        <li>Le second mécanisme propose une régulation de la taille des MTs et donc du taux d'attachement au sein du fuseau mitotique.</li>
-      </ul>
-      </li>
-    </ul>
-
-    <br/><hr/><br/>
-
-    <p class="">Ce travail souligne l'importance des kinésines dépolymérisatrices dans des processus cellulaires clés ainsi que leurs capacités à « sentir » la taille des microtubules afin de reguler de manière spatio-temporelle des concentrations de protéines au sein de la cellule.</p>
-
-	</section>
-
-  <section>
-    <h1>Contrôle de la dynamique des chromosomes en mitose</h1>
-
-    <br/><br/>
-    <ul>
-      <li>Contrairement aux cellules HeLa (Stumpf, 2012), l'alignement des chromosomes en métaphase chez le levure à fission est peu impacté par l'amplitude des oscillations.</li>
-      <li>Ce résultat contradictoire pourraient être expliquer par une composition différente du fuseau mitotique chez ces deux organismes.</li>
-      <hr/>
-      <li>Bien que le modèle mécanique reproduise l'alignement sans l'oscillation des chromosomes, cela ne veut pas nécessairement dire que les oscillations ne joue aucun rôle dans le centrage des chromosomes en métaphase.</li>
-      <li>L'implémentation d'un modèle de switch des kinétochores (Burroughs, 2015) pourrait aider à mieux comprendre la façon dont sont synchronisés le mouvement des kinétochores frères (modèle d'attachement à trois états).</li>
-      <hr/>
-      <li>Une analyse plus fine des MSD pourraient aussi permettre de comprendre l'action de la kinésine-8 sur la dynamique du kinétochore et de l'attachement.</li>
-    </ul>
-
   </section>
 
   <section>
@@ -454,7 +463,7 @@
       <li>En collaboration avec Guillaume Gay (damcb.com) et Jacques Pécreaux (Rennes).</li>
     </ul>
 
-    <br/><hr/><br/>
+    <hr/>
 
     <video class="" width="50%" src="data/discussion/ktsimu3d.mp4" controls loop></video>
 
@@ -489,9 +498,7 @@
 		</div>
 	</div>
 
-  <br/>
-	<hr/>
-  <br/>
+  <br/><hr/><br/>
 
 	<img src="data/logo.png" width="60%" alt="logo_funding">
 	<p>Ce travail de thèse a été soutenu par ANR Blanc 1206 01 "Chromocatch" et FRM (ING 2012 1226 280) "innovative project".</p>
@@ -510,29 +517,12 @@
 	</section>
 
   <section>
-    <h1>Un déséquilibre des forces de tractions pourrait expliquer l'augmentation de l'amplitude des oscillations</h1>
-
-    <svg class="fragment" width="65%" data-src="data/results/mad2.svg"></svg>
-  </section>
-
-  <section>
-    <h1>Modèle d'attachement à trois états</h1>
-
-    <svg class="" width="95%" data-src="data/results/attachment_model.svg"></svg>
-  </section>
-
-  <section>
-    <h1>L'état de cohérence des kinétochores frêres - 1</h1>
-    <svg class="" width="65%" data-src="data/results/coherence_run.svg"></svg>
-  </section>
-
-  <section>
-    <h1>L'état de cohérence des kinétochores frêres - 2</h1>
+    <h1>L'état de cohérence des kinétochores frêres (1)</h1>
     <svg class="" width="85%" data-src="data/results/coherence_stats.svg"></svg>
   </section>
 
   <section>
-    <h1>L'état de cohérence des kinétochores frêres - 3</h1>
+    <h1>L'état de cohérence des kinétochores frêres (2)</h1>
     <svg class="" width="80%" data-src="data/results/coherence_stretch.svg"></svg>
   </section>
 
