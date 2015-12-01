@@ -35,9 +35,9 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="-18.67949"
-     inkscape:cx="319.70405"
-     inkscape:zoom="0.70710685"
+     inkscape:cy="48.799639"
+     inkscape:cx="43.839923"
+     inkscape:zoom="2.8284274"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -303,16 +303,6 @@
        id="path-effect4048-5"
        is_visible="true" />
     <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3888-3"
-       id="linearGradient84995"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.07527383,0,0,0.07527383,-111.98136,308.99054)"
-       x1="641.45703"
-       y1="22.006592"
-       x2="1160.6552"
-       y2="22.006592" />
-    <linearGradient
        id="linearGradient3888-3">
       <stop
          style="stop-color:#d2d2d2;stop-opacity:1;"
@@ -323,16 +313,6 @@
          offset="1"
          id="stop3892-1" />
     </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient3880-4"
-       id="linearGradient84993"
-       gradientUnits="userSpaceOnUse"
-       x1="500.06738"
-       y1="22.006592"
-       x2="1302.0449"
-       y2="22.006592"
-       gradientTransform="matrix(0.07527383,0,0,0.07527383,-111.98136,308.99054)" />
     <linearGradient
        id="linearGradient3880-4">
       <stop
@@ -686,7 +666,7 @@
        height="117.40411"
        width="59.615181"
        id="rect2987"
-       style="fill:url(#linearGradient84993);fill-opacity:1;stroke:#845400;stroke-width:0.75273842;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="fill:#ffd78f;fill-opacity:1;stroke:#845400;stroke-width:0.75273842;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        ry="29.91827"
        rx="22.921009"
@@ -695,7 +675,7 @@
        height="82.729431"
        width="38.931488"
        id="rect3757"
-       style="fill:url(#linearGradient84995);fill-opacity:1;stroke:#000000;stroke-width:0.15054767;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="fill:#dddddd;fill-opacity:1;stroke:#000000;stroke-width:0.15054767;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="csc"
        inkscape:connector-curvature="0"
