@@ -35,8 +35,8 @@
      showgrid="false"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="159.90911"
-     inkscape:cx="-28.205256"
+     inkscape:cy="234.86242"
+     inkscape:cx="166.9562"
      inkscape:zoom="0.70710685"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
@@ -710,7 +710,8 @@
        width="250.3654"
        clip-path="url(#clipPath4195)"
        transform="translate(-34.486653,0.70710671)"
-       class="fragment" />
+       class="fragment"
+       data-fragment-index="1" />
     <text
        sodipodi:linespacing="100%"
        id="text5937-3"
@@ -724,7 +725,8 @@
          sodipodi:role="line" /></text>
     <g
        id="g4857"
-       class="fragment">
+       class="fragment"
+       data-fragment-index="2">
       <g
          transform="matrix(0.61826228,0,0,0.61826228,166.73352,198.9788)"
          id="g4663">
