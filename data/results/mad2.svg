@@ -229,9 +229,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="387.13903"
-     inkscape:cy="109.8832"
+     inkscape:zoom="1.4"
+     inkscape:cx="388.41041"
+     inkscape:cy="350.58144"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -296,9 +296,7 @@
          id="tspan4511-2"
          sodipodi:role="line"><tspan
    id="tspan4565"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-linecap:butt;stroke-linejoin:round">Kymographes de cellules </tspan>klp6Δ<tspan
-   id="tspan4567"
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-linecap:butt;stroke-linejoin:round" /></tspan></text>
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:arial;stroke-linecap:butt;stroke-linejoin:round">Kymographes de cellules </tspan>kinesin-8Δ</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -731,7 +729,8 @@
      id="g4838"
      class="fragment"
      style="stroke-linecap:square;stroke-linejoin:round"
-     data-fragment-index="3">
+     data-fragment-index="3"
+     transform="translate(498.57143,0)">
     <path
        inkscape:connector-curvature="0"
        id="path18620"
@@ -1061,7 +1060,8 @@
      id="g4721"
      class="fragment"
      style="stroke-linecap:square;stroke-linejoin:round"
-     data-fragment-index="2">
+     data-fragment-index="2"
+     transform="translate(201.42857,-12.857143)">
     <image
        inkscape:label="kymo"
        width="248.06842"
@@ -1503,7 +1503,9 @@
          x="160.61426"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:arial;-inkscape-font-specification:arial;stroke-linecap:square;stroke-linejoin:round"
          id="tspan4717"
-         sodipodi:role="line">Trajectoire d'un KT dans une cellule klp6Δ</tspan><tspan
+         sodipodi:role="line">Trajectoire d'un KT dans une cellule <tspan
+   style="-inkscape-font-specification:'arial Italic';font-family:arial;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
+   id="tspan4373">kinesin-8Δ</tspan></tspan><tspan
          id="tspan4719"
          y="333.62"
          x="160.61426"
