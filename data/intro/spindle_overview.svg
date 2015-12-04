@@ -145,9 +145,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="300.07234"
-     inkscape:cy="89.816655"
+     inkscape:zoom="2.8"
+     inkscape:cx="494.57961"
+     inkscape:cy="161.65719"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -157,8 +157,8 @@
      fit-margin-left="10"
      fit-margin-right="10"
      fit-margin-bottom="10"
-     inkscape:window-width="1920"
-     inkscape:window-height="1003"
+     inkscape:window-width="1600"
+     inkscape:window-height="1123"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -298,15 +298,15 @@
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.34344196px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#ff7f2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:square;stroke-linejoin:round;marker:none;enable-background:accumulate"
-       x="-442.04181"
+       x="-464.10074"
        y="297.90497"
        id="text15878"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         x="-442.04181"
+         x="-464.10074"
          y="297.90497"
          id="tspan15886"
-         style="stroke-linecap:square;stroke-linejoin:round">MT interdigités</tspan></text>
+         style="stroke-linecap:square;stroke-linejoin:round">Microtubule interdigités</tspan></text>
   </g>
   <g
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.34344196px;line-height:107.00000525%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:square;stroke-linejoin:round"
@@ -315,15 +315,15 @@
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.34344196px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#4761e7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-linecap:square;stroke-linejoin:round;marker:none;enable-background:accumulate"
-       x="-337.17984"
+       x="-357.48407"
        y="255.64403"
        id="text15872"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
-         x="-337.17984"
+         x="-357.48407"
          y="255.64403"
          id="tspan15876"
-         style="stroke-linecap:square;stroke-linejoin:round">kt-MT</tspan></text>
+         style="stroke-linecap:square;stroke-linejoin:round">KT-Microtubule</tspan></text>
   </g>
   <g
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.34344196px;line-height:107.00000525%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-linecap:square;stroke-linejoin:round"
@@ -477,32 +477,32 @@
      id="path52216" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#ff7c00;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4472)"
-     d="m 377.53092,247.20495 35.86042,0"
+     d="m 377.53092,-30.587001 35.86042,0"
      id="path4197"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
      id="path5243"
-     d="m 276.21516,247.20495 -35.86042,0"
+     d="m 276.21516,-30.587001 -35.86042,0"
      style="fill:none;fill-rule:evenodd;stroke:#ff7c00;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4420)" />
   <path
      inkscape:connector-curvature="0"
      id="path5243-1"
-     d="m 402.8413,143.11028 35.86042,0"
+     d="m 402.8413,-134.68167 35.86042,0"
      style="fill:none;fill-rule:evenodd;stroke:#ab37c8;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4530)" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#ab37c8;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4594)"
-     d="m 258.25103,143.11028 -35.86042,0"
+     d="m 258.25103,-134.68167 -35.86042,0"
      id="path6909"
      inkscape:connector-curvature="0" />
   <path
      inkscape:connector-curvature="0"
      id="path5243-1-4"
-     d="m 333.24625,17.874936 35.86042,0"
+     d="m 333.24625,-259.91701 35.86042,0"
      style="fill:none;fill-rule:evenodd;stroke:#191970;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker4664)" />
   <path
      style="fill:none;fill-rule:evenodd;stroke:#191970;stroke-width:7;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker7831)"
-     d="m 323.17958,19.303507 -35.86042,0"
+     d="m 323.17958,-258.48844 -35.86042,0"
      id="path7829"
      inkscape:connector-curvature="0" />
   <text
@@ -517,5 +517,5 @@
        id="tspan4281"
        x="878.23944"
        y="-147.70798"
-       style="stroke-linecap:square;stroke-linejoin:round">Kinétochore</tspan></text>
+       style="stroke-linecap:square;stroke-linejoin:round">Kinétochore (KT)</tspan></text>
 </svg>
