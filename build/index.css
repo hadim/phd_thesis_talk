@@ -1730,7 +1730,8 @@ section.has-light-background, section.has-light-background h1, section.has-light
   margin-top: 0; }
 
 .reveal .content > ul > li > ul {
-  font-size: 0.8em; }
+  font-size: 0.8em;
+  color: #bbb; }
 
 .reveal .part h1 {
   border-bottom: none;
@@ -1743,7 +1744,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
   margin-top: 2em;
   list-style-type: none;
   font-size: 0.8em;
-  color: #aaa;
+  color: #bbb;
   margin-left: 0;
   margin-right: 0; }
 
