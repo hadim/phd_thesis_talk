@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
   backgroundTransition: 'default', // none/fade/slide/convex/concave/zoom
 
   // Number of slides away from the current that are visible
-  viewDistance: 10,
+  viewDistance: 3,
 
   // Parallax background image
   parallaxBackgroundImage: '', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"

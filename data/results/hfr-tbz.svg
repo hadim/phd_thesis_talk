@@ -116,9 +116,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="312.39521"
-     inkscape:cy="95.306451"
+     inkscape:zoom="1.979899"
+     inkscape:cx="213.85392"
+     inkscape:cy="134.18263"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -195,7 +195,7 @@
        y="20.78125"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;font-family:arial;-inkscape-font-specification:arial;text-align:start;text-anchor:start;fill:#00a0ff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"><tspan
    style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:arial;-inkscape-font-specification:'arial Italic';fill:#00a0ff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-   id="tspan4532">kinesin-8Δ</tspan> +TBZ</tspan></text>
+   id="tspan4532">kinésine-8Δ</tspan> +TBZ</tspan></text>
   <text
      sodipodi:linespacing="100%"
      id="text4496"
@@ -256,7 +256,7 @@
        id="tspan4514"
        x="507.40112"
        y="188.8618"
-       style="font-size:15px;stroke-linecap:butt;stroke-linejoin:round">Time (s)</tspan></text>
+       style="font-size:15px;stroke-linecap:butt;stroke-linejoin:round">Temps (s)</tspan></text>
   <text
      sodipodi:linespacing="100%"
      id="text4516"
@@ -444,7 +444,7 @@
        y="188.8618"
        x="218.8297"
        id="tspan4611"
-       sodipodi:role="line">Time (s)</tspan></text>
+       sodipodi:role="line">Temps (s)</tspan></text>
   <text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:arial;-inkscape-font-specification:arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"

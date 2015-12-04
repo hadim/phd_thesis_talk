@@ -203,3 +203,8 @@ section.has-light-background {
 .reveal .part li{
   text-align: center;
 }
+
+.reveal li > strong{
+  color: #aaa;
+  font-weight: normal;
+}

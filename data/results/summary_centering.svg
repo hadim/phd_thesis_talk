@@ -20,6 +20,36 @@
   <defs
      id="defs4"
      style="stroke-linecap:square;stroke-linejoin:round">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4585"
+       style="overflow:visible;stroke-linecap:butt;stroke-linejoin:round"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4587"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         transform="scale(0.4,0.4)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleInM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker4545"
+       style="overflow:visible;stroke-linecap:butt;stroke-linejoin:round"
+       inkscape:isstock="true">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4547"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
+         transform="scale(-0.4,-0.4)" />
+    </marker>
     <style
        id="style6"
        type="text/css">
@@ -30,157 +60,21 @@
        type="text/css">
 *{stroke-linecap:square;stroke-linejoin:round;}
   </style>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible;stroke-linecap:square;stroke-linejoin:round"
-       id="TriangleOutM"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutM">
-      <path
-         inkscape:connector-curvature="0"
-         transform="scale(0.4,0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path5880" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible;stroke-linecap:square;stroke-linejoin:round"
-       id="TriangleInM"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleInM">
-      <path
-         inkscape:connector-curvature="0"
-         transform="scale(-0.4,-0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path5871" />
-    </marker>
-    <clipPath
-       id="p6052dcc732"
-       style="stroke-linecap:square;stroke-linejoin:round">
-      <rect
-         height="418.17999"
-         width="780.49408"
-         x="70.545937"
-         y="35.060001"
-         id="rect1446"
-         style="stroke-linecap:square;stroke-linejoin:round" />
-    </clipPath>
     <style
        type="text/css"
        id="style6-3">
 *{stroke-linecap:square;stroke-linejoin:round;}
   </style>
-    <linearGradient
-       id="linearGradient3880-4-3">
-      <stop
-         id="stop3882-7-2"
-         offset="0"
-         style="stop-color:#ffbf4e;stop-opacity:1;" />
-      <stop
-         id="stop3884-7-4"
-         offset="1"
-         style="stop-color:#ffbf4e;stop-opacity:0.33557048;" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient3888-3-0">
-      <stop
-         id="stop3890-3-8"
-         offset="0"
-         style="stop-color:#d2d2d2;stop-opacity:1;" />
-      <stop
-         id="stop3892-1-9"
-         offset="1"
-         style="stop-color:#e9e9e9;stop-opacity:1;" />
-    </linearGradient>
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect4839"
-       effect="spiro" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect4841"
-       effect="spiro" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect4845"
-       effect="spiro" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect4847"
-       effect="spiro" />
     <style
        type="text/css"
        id="style5004">
 *{stroke-linecap:butt;stroke-linejoin:round;}
   </style>
-    <clipPath
-       id="p6052dcc732-0"
-       style="stroke-linecap:butt;stroke-linejoin:round">
-      <rect
-         height="418.17999"
-         width="780.49408"
-         x="70.545937"
-         y="35.060001"
-         id="rect1446-9"
-         style="stroke-linecap:square;stroke-linejoin:round" />
-    </clipPath>
     <style
        type="text/css"
        id="style6-2">
 *{stroke-linecap:square;stroke-linejoin:round;}
   </style>
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect4839-5"
-       effect="spiro" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect4841-7"
-       effect="spiro" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect4845-3"
-       effect="spiro" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect4847-1"
-       effect="spiro" />
-    <marker
-       inkscape:stockid="TriangleOutM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker4604"
-       style="overflow:visible;stroke-linecap:butt;stroke-linejoin:round"
-       inkscape:isstock="true">
-      <path
-         id="path4606"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-         transform="scale(0.4,0.4)"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:stockid="TriangleInM"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="marker4504"
-       style="overflow:visible;stroke-linecap:butt;stroke-linejoin:round"
-       inkscape:isstock="true">
-      <path
-         id="path4506"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-         transform="scale(-0.4,-0.4)"
-         inkscape:connector-curvature="0" />
-    </marker>
     <style
        type="text/css"
        id="style6-1">
@@ -191,182 +85,16 @@
        id="style5004-7">
 *{stroke-linecap:butt;stroke-linejoin:round;}
   </style>
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect15735"
-       is_visible="true" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect15223"
-       effect="spiro" />
     <style
        type="text/css"
        id="style6-9-9">
 *{stroke-linecap:square;stroke-linejoin:round;}
   </style>
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect96806-5"
-       is_visible="true" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect96774-2"
-       is_visible="true" />
-    <marker
-       style="overflow:visible;stroke-linecap:square;stroke-linejoin:round"
-       id="Arrow2Mstart2"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mstart2">
-      <path
-         inkscape:connector-curvature="0"
-         transform="scale(0.6,0.6)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linecap:square;stroke-linejoin:round"
-         id="path3854" />
-    </marker>
-    <marker
-       style="overflow:visible;stroke-linecap:square;stroke-linejoin:round"
-       id="Arrow2Mend7"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="Arrow2Mend7">
-      <path
-         inkscape:connector-curvature="0"
-         transform="scale(-0.6,-0.6)"
-         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
-         style="fill:#ff0000;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.625;stroke-linecap:square;stroke-linejoin:round"
-         id="path3857" />
-    </marker>
     <style
        type="text/css"
        id="style4649">
 *{stroke-linecap:butt;stroke-linejoin:round;}
   </style>
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect15223-2"
-       effect="spiro" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect96774-2-6"
-       is_visible="true" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect96806-5-7"
-       is_visible="true" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect15735-2"
-       is_visible="true" />
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible;stroke-linecap:butt;stroke-linejoin:round"
-       id="marker5309"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleInM">
-      <path
-         inkscape:connector-curvature="0"
-         transform="scale(-0.4,-0.4)"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path5189" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible;stroke-linecap:butt;stroke-linejoin:round"
-       id="marker5420"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutM">
-      <path
-         inkscape:connector-curvature="0"
-         transform="scale(0.4,0.4)"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path5198" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible;stroke-linecap:square;stroke-linejoin:round"
-       id="TriangleInM-8"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleInM">
-      <path
-         inkscape:connector-curvature="0"
-         transform="scale(-0.4,-0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path5871-6" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible;stroke-linecap:square;stroke-linejoin:round"
-       id="TriangleOutM-21"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutM">
-      <path
-         inkscape:connector-curvature="0"
-         transform="scale(0.4,0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path5880-0" />
-    </marker>
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect9366"
-       effect="spiro" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect10439"
-       is_visible="true" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect9370"
-       is_visible="true" />
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible;stroke-linecap:butt;stroke-linejoin:round"
-       id="TriangleInM-1"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleInM">
-      <path
-         transform="scale(-0.4,-0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path5871-7"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible;stroke-linecap:butt;stroke-linejoin:round"
-       id="TriangleOutM-1"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleOutM">
-      <path
-         transform="scale(0.4,0.4)"
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path5880-2"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect9991"
-       effect="spiro" />
     <style
        type="text/css"
        id="style5442">
@@ -377,22 +105,6 @@
        id="style5848">
 *{stroke-linecap:butt;stroke-linejoin:round;}
   </style>
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect15223-2-3"
-       effect="spiro" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect96774-2-6-6"
-       is_visible="true" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect96806-5-7-0"
-       is_visible="true" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect15735-2-4"
-       is_visible="true" />
     <style
        type="text/css"
        id="style6295">
@@ -447,7 +159,8 @@
        refX="0"
        refY="0"
        orient="auto"
-       inkscape:stockid="TriangleInM">
+       inkscape:stockid="TriangleInM"
+       inkscape:collect="always">
       <path
          transform="scale(-0.4,-0.4)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
@@ -462,7 +175,8 @@
        refX="0"
        refY="0"
        orient="auto"
-       inkscape:stockid="TriangleOutM">
+       inkscape:stockid="TriangleOutM"
+       inkscape:collect="always">
       <path
          transform="scale(0.4,0.4)"
          style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
@@ -494,37 +208,6 @@
        id="style5054">
 *{stroke-linecap:butt;stroke-linejoin:round;}
   </style>
-    <marker
-       inkscape:isstock="true"
-       style="overflow:visible;stroke-linecap:butt;stroke-linejoin:round"
-       id="TriangleInM-6"
-       refX="0"
-       refY="0"
-       orient="auto"
-       inkscape:stockid="TriangleInM">
-      <path
-         transform="scale(-0.4,-0.4)"
-         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-linecap:butt;stroke-linejoin:round;stroke-opacity:1"
-         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
-         id="path5155"
-         inkscape:connector-curvature="0" />
-    </marker>
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect15735-2-4-7"
-       is_visible="true" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect96806-5-7-0-9"
-       is_visible="true" />
-    <inkscape:path-effect
-       effect="spiro"
-       id="path-effect96774-2-6-6-8"
-       is_visible="true" />
-    <inkscape:path-effect
-       is_visible="true"
-       id="path-effect15223-2-3-3"
-       effect="spiro" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -533,9 +216,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="619.09337"
-     inkscape:cy="550.27691"
+     inkscape:zoom="0.7"
+     inkscape:cx="416.02194"
+     inkscape:cy="387.13938"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -597,7 +280,7 @@
              id="tspan8533"
              x="277.72504"
              y="-1705.8157"
-             style="font-size:27.0000248px;stroke-linecap:butt;stroke-linejoin:round">Time (s)</tspan></text>
+             style="font-size:27.0000248px;stroke-linecap:butt;stroke-linejoin:round">Temps (s)</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.0000248px;line-height:100%;font-family:arial;-inkscape-font-specification:arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
@@ -851,7 +534,7 @@
              id="tspan8615"
              x="550.38354"
              y="-1841.8458"
-             style="font-size:27.00002861px;stroke-linecap:butt;stroke-linejoin:round">Time (s)</tspan></text>
+             style="font-size:27.00002861px;stroke-linecap:butt;stroke-linejoin:round">Temps (s)</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.00002861px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
@@ -1124,7 +807,7 @@
            id="tspan5662"
            style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35px;font-family:arial;-inkscape-font-specification:'arial Italic';fill:#00a0ff;fill-opacity:1;stroke-linecap:square;stroke-linejoin:round"
            x="530.7674"
-           y="-2154.3694">kinesin-8Δ</tspan></text>
+           y="-2154.3694">kinésine-8Δ</tspan></text>
     </g>
     <g
        inkscape:label="Main"
@@ -1201,7 +884,7 @@
              id="tspan9614"
              sodipodi:role="line">amplitude (A)</tspan></text>
         <path
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.56250834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#TriangleInM-1-2);marker-end:url(#TriangleOutM-1-8)"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.56250834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker4545);marker-end:url(#marker4585)"
            d="m 705.76187,85.843216 0,52.032974"
            id="path8974-7"
            inkscape:connector-curvature="0"
@@ -1215,7 +898,7 @@
            inkscape:original-d="m 706.94523,75.602762 -75.52955,0"
            inkscape:connector-curvature="0" />
         <path
-           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.56250834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#TriangleInM-0);marker-end:url(#TriangleOutM-2)"
+           style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.56250834;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#TriangleInM-1-2);marker-end:url(#TriangleOutM-1-8)"
            d="m 545.35421,61.242962 108.08251,0"
            id="path8974"
            inkscape:connector-curvature="0"
@@ -1341,7 +1024,7 @@
              y="-1375.9326"
              x="1546.6666"
              sodipodi:role="line"
-             id="tspan6494">kinesin-8Δ</tspan></text>
+             id="tspan6494">kinésine-8Δ</tspan></text>
         <image
            y="-1732.2042"
            x="1317.2811"

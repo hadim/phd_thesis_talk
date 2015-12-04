@@ -1750,3 +1750,7 @@ section.has-light-background, section.has-light-background h1, section.has-light
 
 .reveal .part li {
   text-align: center; }
+
+.reveal li > strong {
+  color: #aaa;
+  font-weight: normal; }

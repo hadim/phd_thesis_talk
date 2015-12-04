@@ -843,9 +843,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="270.21544"
-     inkscape:cy="360.00448"
+     inkscape:zoom="1.4"
+     inkscape:cx="172.85848"
+     inkscape:cy="512.83188"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -909,7 +909,7 @@
          x="503.24646"
          id="tspan6941-8"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-linecap:butt;stroke-linejoin:round">Microtubule length (µm)</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-linecap:butt;stroke-linejoin:round">Longueur du microtubule (µm)</tspan></text>
     <text
        transform="matrix(0,-1,1,0,0,0)"
        sodipodi:linespacing="100%"
@@ -918,18 +918,16 @@
        x="-141.53157"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;marker:none;enable-background:accumulate"
        xml:space="preserve"><tspan
+         id="tspan10621"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-linecap:butt;stroke-linejoin:round"
          y="365.1485"
          x="-141.53157"
-         sodipodi:role="line"
-         id="tspan10619">Normalized <tspan
-   style="-inkscape-font-specification:'arial Italic';font-family:arial;font-weight:normal;font-style:italic;font-stretch:normal;font-variant:normal"
-   id="tspan4920">kinesin-8-gfp</tspan></tspan><tspan
-         id="tspan10621"
+         sodipodi:role="line">Intensité normalisé</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-linecap:butt;stroke-linejoin:round"
          y="380.1485"
          x="-141.53157"
-         sodipodi:role="line">intensities at tip (A.U)</tspan></text>
+         sodipodi:role="line"
+         id="tspan4924"> de la kinésine-8GFP (A.U)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
@@ -3413,16 +3411,16 @@
     </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:round"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#9f2a00;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:round;"
        x="565.19171"
        y="147.56342"
        id="text14589"
        sodipodi:linespacing="125%"><tspan
-         style="stroke-linecap:square;stroke-linejoin:round"
+         style="stroke-linecap:square;stroke-linejoin:round;fill:#9f2a00;fill-opacity:1;"
          sodipodi:role="line"
          x="565.19171"
          y="147.56342"
-         id="tspan14593">Kinesin-8</tspan></text>
+         id="tspan14593">Kinésine-8</tspan></text>
     <path
        inkscape:connector-curvature="0"
        id="path14597"
@@ -3433,9 +3431,9 @@
        id="text14599"
        y="343.992"
        x="746.6203"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:round"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#1a9bff;fill-opacity:0.8392157;stroke:none;stroke-linecap:square;stroke-linejoin:round;"
        xml:space="preserve"><tspan
-         style="stroke-linecap:square;stroke-linejoin:round"
+         style="stroke-linecap:square;stroke-linejoin:round;fill:#1a9bff;fill-opacity:0.8392157;"
          id="tspan14601"
          y="343.992"
          x="746.6203"
@@ -3446,18 +3444,6 @@
        id="path14603"
        d="M 690.50001,337.35712 629.78572,298.78569"
        style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ff0000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:round"
-       x="545.45068"
-       y="63.439335"
-       id="text14605"
-       sodipodi:linespacing="125%"><tspan
-         style="stroke-linecap:square;stroke-linejoin:round"
-         sodipodi:role="line"
-         x="545.45068"
-         y="63.439335"
-         id="tspan14609">Long microtubule</tspan></text>
     <g
        transform="matrix(1.4091123,0,0,1.4120922,-1147.1249,537.95929)"
        style="fill:#9f2a00;fill-opacity:1;stroke-linecap:square;stroke-linejoin:round"
@@ -3758,18 +3744,6 @@
          id="tspan3548"
          x="315.06775"
          y="365.6907">+</tspan></text>
-    <text
-       sodipodi:linespacing="125%"
-       id="text3550"
-       y="359.62979"
-       x="834.51086"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:32px;line-height:125%;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:square;stroke-linejoin:round"
-       xml:space="preserve"><tspan
-         style="stroke-linecap:square;stroke-linejoin:round"
-         y="359.62979"
-         x="834.51086"
-         id="tspan3552"
-         sodipodi:role="line">-</tspan></text>
   </g>
   <g
      id="g7182"
@@ -3830,42 +3804,37 @@
          sodipodi:linespacing="100%"
          id="text6481"
          y="194.04837"
-         x="77.399712"
+         x="68.813416"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;marker:none;enable-background:accumulate"
          xml:space="preserve"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
            y="194.04837"
-           x="77.399712"
+           x="68.813416"
            id="tspan6483"
-           sodipodi:role="line">Spindle</tspan></text>
+           sodipodi:role="line">Fuseau</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
+           y="209.04837"
+           x="68.813416"
+           sodipodi:role="line"
+           id="tspan4926">mitotique</tspan></text>
       <text
          xml:space="preserve"
          style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;marker:none;enable-background:accumulate"
-         x="68.37397"
-         y="92.466774"
+         x="46.588253"
+         y="84.966774"
          id="text5037"
          sodipodi:linespacing="100%"><tspan
            sodipodi:role="line"
-           id="tspan5039"
-           x="68.37397"
-           y="92.466774"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round">Kinesin8</tspan><tspan
-           sodipodi:role="line"
-           x="68.37397"
-           y="107.46677"
+           x="46.588253"
+           y="84.966774"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan4456">at + end</tspan><tspan
-           sodipodi:role="line"
-           x="68.37397"
-           y="122.46677"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:round"
-           id="tspan4458">of MT</tspan></text>
+           id="tspan4458">Kinésine-8-GFP</tspan></text>
       <path
          style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-         d="m 99.61489,89.986869 32.19862,-19.82424"
+         d="m 101.6352,79.885344 30.17831,-9.722715"
          id="path5041"
          inkscape:path-effect="#path-effect5043"
-         inkscape:original-d="m 99.61489,89.986869 32.19862,-19.82424"
+         inkscape:original-d="m 101.6352,79.885344 30.17831,-9.722715"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <text
@@ -3901,21 +3870,9 @@
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
-         id="path15241"
-         d="M 65.909902,110.3611 46.765021,45.441132"
-         style="fill:none;stroke:#ff0000;stroke-width:2.57211709px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <path
-         sodipodi:nodetypes="cc"
-         inkscape:connector-curvature="0"
          id="path15243"
          d="M 60.699292,111.35411 39.832595,127.10749"
          style="fill:none;stroke:#ff0000;stroke-width:2.57211709px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
-      <circle
-         id="path15942"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#228b22;fill-opacity:1;fill-rule:nonzero;stroke:#228b22;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.24000001;stroke-opacity:1;marker:none;enable-background:accumulate"
-         cx="46.339188"
-         cy="44.991344"
-         r="4.7598319" />
       <circle
          style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#228b22;fill-opacity:1;fill-rule:nonzero;stroke:#228b22;stroke-width:0;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.24000001;stroke-opacity:1;marker:none;enable-background:accumulate"
          id="path15958"

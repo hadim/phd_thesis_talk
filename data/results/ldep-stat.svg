@@ -178,8 +178,8 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.7"
-     inkscape:cx="531.84486"
-     inkscape:cy="299.28769"
+     inkscape:cx="250.48772"
+     inkscape:cy="295.93451"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -280,35 +280,20 @@
        sodipodi:role="line"
        x="177.31827"
        y="650.52686"
-       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:arial;-inkscape-font-specification:'arial Italic';fill:#00a0ff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">kinesin-8Δ</tspan></text>
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:25px;font-family:arial;-inkscape-font-specification:'arial Italic';fill:#00a0ff;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">kinésine-8Δ</tspan></text>
   <text
      sodipodi:linespacing="100%"
      id="text4833"
-     y="83.814949"
-     x="499.6662"
+     y="100.08781"
+     x="494.14807"
      style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.94037819px;line-height:100%;font-family:Arial;-inkscape-font-specification:Arial;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:round;marker:none;enable-background:accumulate"
      xml:space="preserve"
      transform="scale(1.0355458,0.96567434)"><tspan
-       y="83.814949"
-       x="499.6662"
+       y="100.08781"
+       x="494.14807"
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.94037819px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-       id="tspan9583">Distance relative des KT frêres (D)</tspan><tspan
-       y="107.75533"
-       x="499.6662"
-       sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.94037819px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-       id="tspan4268">à la taille du fuseau mitotique (L)</tspan><tspan
-       y="131.69571"
-       x="502.98605"
-       sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.94037819px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-       id="tspan4270">au début de l'anaphase </tspan><tspan
-       y="155.63608"
-       x="499.6662"
-       sodipodi:role="line"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:23.94037819px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-       id="tspan4272" /></text>
+       id="tspan4272">Distance normalisée</tspan></text>
   <text
      transform="scale(1.0355458,0.96567434)"
      sodipodi:linespacing="100%"
@@ -347,7 +332,7 @@
        id="tspan6306"
        x="10.394199"
        y="248.11986"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.76996422px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">Pole</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24.76996422px;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">Pôle</tspan></text>
   <image
      y="236.60452"
      x="73.743416"
