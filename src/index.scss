@@ -45,7 +45,7 @@ section.has-light-background {
 }
 
 .reveal .slides{
-  //border: 0.1em solid rgba(255, 255, 255, 0.2);
+  border: 0.1em solid rgba(255, 255, 255, 0.2);
 }
 
 // Overview mode
@@ -78,13 +78,6 @@ section.has-light-background {
 
 .reveal h6{
   font-size: $heading6Size;
-}
-
-.reveal h1.part{
-  border-bottom: none;
-  text-align: center;
-  margin-top: auto;
-  margin-bottom: auto;
 }
 
 .reveal h1,
@@ -181,4 +174,31 @@ section.has-light-background {
   text-align: center;
   font-size: 0.8em;
   margin-top: 0;
+}
+
+// Content slide
+.reveal .content > ul > li > ul{
+  font-size: 0.8em;
+}
+
+// Part slide
+.reveal .part h1{
+  border-bottom: none;
+  text-align: center;
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
+}
+
+.reveal .part ul{
+  margin-top: 2em;
+  list-style-type: none;
+  font-size: 0.8em;
+  color: #aaa;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.reveal .part li{
+  text-align: center;
 }
