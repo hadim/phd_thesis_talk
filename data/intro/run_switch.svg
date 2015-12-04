@@ -775,19 +775,19 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="48.857601"
-     inkscape:cy="426.94767"
+     inkscape:zoom="1"
+     inkscape:cx="296.01663"
+     inkscape:cy="409.24261"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:showpageshadow="false"
      borderlayer="true"
-     inkscape:window-width="1920"
+     inkscape:window-width="1489"
      inkscape:window-height="1003"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="1"
+     inkscape:window-x="68"
+     inkscape:window-y="62"
+     inkscape:window-maximized="0"
      fit-margin-top="3"
      fit-margin-left="3"
      fit-margin-right="3"
@@ -1072,13 +1072,17 @@
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.49695301px;line-height:100%;font-family:arial;-inkscape-font-specification:arial;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
        x="2755.6208"
-       y="-696.42273"
+       y="-707.02936"
        id="text7196"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan7198"
          x="2755.6208"
-         y="-696.42273">1. High tension detected by lead sister</tspan></text>
+         y="-707.02936">1. Detection de la tension par</tspan><tspan
+         sodipodi:role="line"
+         x="2755.6208"
+         y="-696.53241"
+         id="tspan4627">le kinétochore leader</tspan></text>
     <path
        style="fill:#ff4500;fill-rule:evenodd;stroke:#ff4500;stroke-width:0.69979686;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.39959363, 1.39959363;stroke-dashoffset:0;stroke-opacity:1"
        d="m 2752.2354,-605.78879 0,101.44037"
@@ -1164,14 +1168,18 @@
     <text
        sodipodi:linespacing="100%"
        id="text7246"
-       y="-602.32489"
+       y="-607.07489"
        x="2755.6208"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.49695301px;line-height:100%;font-family:arial;-inkscape-font-specification:arial;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
        xml:space="preserve"><tspan
-         y="-602.32489"
+         y="-607.07489"
          x="2755.6208"
          id="tspan7248"
-         sodipodi:role="line">2. Lead sister switch</tspan></text>
+         sodipodi:role="line">2. Le kinétochore leader change</tspan><tspan
+         y="-596.57794"
+         x="2755.6208"
+         sodipodi:role="line"
+         id="tspan4629">de direction (switch)</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text7612"
@@ -1186,25 +1194,25 @@
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.49695301px;line-height:100%;font-family:arial;-inkscape-font-specification:arial;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
-       x="2857.8447"
+       x="2875.1689"
        y="-770.46039"
        id="text8230"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan8232"
-         x="2857.8447"
-         y="-770.46039">(lead sister)</tspan></text>
+         x="2875.1689"
+         y="-770.46039">(kinétochore leader)</tspan></text>
     <text
        sodipodi:linespacing="100%"
        id="text8234"
        y="-770.46039"
-       x="2627.7488"
+       x="2611.7488"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.49695301px;line-height:100%;font-family:arial;-inkscape-font-specification:arial;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
        xml:space="preserve"><tspan
          y="-770.46039"
-         x="2627.7488"
+         x="2611.7488"
          id="tspan8236"
-         sodipodi:role="line">(trailing sister)</tspan></text>
+         sodipodi:role="line">(kinétochore suiveur)</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -1280,13 +1288,17 @@
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.49695301px;line-height:100%;font-family:arial;-inkscape-font-specification:arial;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
        x="2755.6208"
-       y="-490.98795"
+       y="-497.48795"
        id="text8846"
        sodipodi:linespacing="100%"><tspan
          sodipodi:role="line"
          id="tspan8848"
          x="2755.6208"
-         y="-490.98795">3. Trailing sister switch</tspan></text>
+         y="-497.48795">3. Le kinétochore suiveur change</tspan><tspan
+         sodipodi:role="line"
+         x="2755.6208"
+         y="-486.991"
+         id="tspan4631">de direction</tspan></text>
     <text
        xml:space="preserve"
        style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.74542904px;line-height:100%;font-family:arial;-inkscape-font-specification:arial;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#ffa500;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
