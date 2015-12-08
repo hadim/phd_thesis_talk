@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
     //{ src: `${prefix}/markdown/markdown.js`, condition: () => !!document.querySelector('[data-markdown]') },
     //{ src: `${prefix}/highlight/highlight.js`, async: true, condition: () => !!document.querySelector('pre code'), callback: () => hljs.initHighlightingOnLoad(//) },
     //{ src: `${prefix}/zoom-js/zoom.js`, async: true },
-    //{ src: `${prefix}/notes/notes.js`, async: true },
+    { src: `${prefix}/notes/notes.js`, async: true },
     //{ src: `${prefix}/math/math.js`, async: true },
     ],
   });
