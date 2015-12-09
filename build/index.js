@@ -9564,7 +9564,7 @@ document.addEventListener('DOMContentLoaded', function (event) {
     //  v: current slide's vertical index
     //  c: current slide index (flattened)
     //  t: total number of slides (flattened)
-    slideNumber: 'c/t',
+    slideNumber: 'h.v',
 
     // Push each slide change to the browser history
     history: true,
