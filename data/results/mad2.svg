@@ -199,9 +199,9 @@
      borderopacity="1"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="170.72759"
-     inkscape:cy="229.60036"
+     inkscape:zoom="0.35"
+     inkscape:cx="135.76438"
+     inkscape:cy="526.18968"
      inkscape:document-units="px"
      inkscape:current-layer="svg2"
      showgrid="false"
@@ -240,7 +240,6 @@
      transform="translate(-231.70989,-790.39988)" />
   <g
      id="g6091"
-     class="fragment"
      style="stroke-linecap:square;stroke-linejoin:round"
      data-fragment-index="0"
      transform="translate(-52.511223,-14.148796)">
@@ -388,7 +387,6 @@
      transform="translate(-26.320643,-967.45403)" />
   <g
      id="g6040"
-     class="fragment"
      style="stroke-linecap:square;stroke-linejoin:round"
      data-fragment-index="1"
      transform="translate(-52.511223,-14.148796)">
@@ -685,7 +683,6 @@
   </g>
   <g
      id="g4838"
-     class="fragment"
      style="stroke-linecap:square;stroke-linejoin:round"
      data-fragment-index="3"
      transform="translate(468.55939,-5.4512349)">
@@ -1016,7 +1013,6 @@
   </g>
   <g
      id="g4721"
-     class="fragment"
      style="stroke-linecap:square;stroke-linejoin:round"
      data-fragment-index="2"
      transform="matrix(1.2108076,0,0,1.2108076,149.81448,-129.48995)">
