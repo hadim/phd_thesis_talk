@@ -23,4 +23,4 @@ $SLIMERJS /home/hadim/.phd/dev/contrib/js/decktape/decktape.js http://localhost:
                                                                --size 1280x930
 
 convert ./temp_pdf/*.png slides.pdf
-rm -fr ./temp_pdf/
+#rm -fr ./temp_pdf/

@@ -120,9 +120,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="174.53514"
-     inkscape:cy="103.10492"
+     inkscape:zoom="8.0000002"
+     inkscape:cx="178.79616"
+     inkscape:cy="58.923028"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -832,5 +832,29 @@
            id="tspan4372-1"
            sodipodi:role="line">(Westermann, 2005)</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:arial;-inkscape-font-specification:arial;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       x="278.64359"
+       y="104.15462"
+       id="text4536"
+       sodipodi:linespacing="100%"><tspan
+         sodipodi:role="line"
+         id="tspan4538"
+         x="278.64359"
+         y="104.15462"
+         style="stroke-linecap:square;stroke-linejoin:round">-</tspan></text>
+    <text
+       sodipodi:linespacing="100%"
+       id="text4540"
+       y="105.08724"
+       x="186.17194"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:100%;font-family:arial;-inkscape-font-specification:arial;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;letter-spacing:0px;word-spacing:0px;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:middle;display:inline;overflow:visible;visibility:visible;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker:none;enable-background:accumulate"
+       xml:space="preserve"><tspan
+         y="105.08724"
+         x="186.17194"
+         id="tspan4542"
+         sodipodi:role="line"
+         style="stroke-linecap:square;stroke-linejoin:round">+</tspan></text>
   </g>
 </svg>
