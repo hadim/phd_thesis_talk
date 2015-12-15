@@ -65,7 +65,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
   rtl: false,
 
   // Turns fragments on and off globally
-  fragments: false,
+  fragments: true,
 
   // Flags if the presentation is running in an embedded mode,
   // i.e. contained within a limited portion of the screen
